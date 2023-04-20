@@ -1,0 +1,5 @@
+Height of Red-Black tree is  19
+The number of nodes in Red-Black tree is  999999
+
+The comparison of heights between BST and Red black tree is height of BST was 50
+and height of red black tree is 19. This can will be due to red black tree being more balanced

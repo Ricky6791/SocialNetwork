@@ -1,0 +1,349 @@
+/Users/ravila/Algorithms/HW6/venv/bin/python /Users/ravila/Algorithms/HW6/extra.py
+{'articles': [{'author': 'Amanda Hoover',
+               'content': 'And as the globes dominant music streamer, Spotify '
+                          'controls slightly less than\xa0one third of the '
+                          'marketplace. But if youre on Twitter or Instagram '
+                          'when Spotify Wrapped drops, youd think it had even '
+                          'mo… [+2648 chars]',
+               'description': "It's a social media trend that survives year "
+                              'after year. And it thrives on your personal '
+                              'data.',
+               'publishedAt': '2022-12-01T15:49:37Z',
+               'source': {'id': 'wired', 'name': 'Wired'},
+               'title': 'The Big Problem With Spotify Wrapped',
+               'url': 'https://www.wired.com/story/spotify-wrapped-user-data/',
+               'urlToImage': 'https://media.wired.com/photos/6387f0fbebfb92e0aebbf32c/191:100/w_1280,c_limit/spotifywrapped-03.jpg'},
+              {'author': 'Matt Burgess',
+               'content': 'Cybersecurity startup Corellium offered or sold its '
+                          'software to spyware and hacking-tool creators in '
+                          'multiple repressive countries, a\xa0WIRED '
+                          'investigation revealed this week. A previously '
+                          'unreported 5… [+5268 chars]',
+               'description': 'Plus: WikiLeaks’ website is falling apart, tax '
+                              'websites are sending your data to Facebook, and '
+                              'cops take down a big phone-number-spoofing '
+                              'operation.',
+               'publishedAt': '2022-11-26T14:00:00Z',
+               'source': {'id': 'wired', 'name': 'Wired'},
+               'title': 'Apple Tracks You More Than You Think',
+               'url': 'https://www.wired.com/story/apple-iphone-privacy-analytics-security-roundup/',
+               'urlToImage': 'https://media.wired.com/photos/6381030e3099e6c3ba4290a1/191:100/w_1280,c_limit/Apple-data-collection-security-roundup-1244131331.jpg'},
+              {'author': 'Justin Ling',
+               'content': 'Amid rising concerns about Chinas growing '
+                          'international data collection apparatus, a newly '
+                          'divided US Congress is applying fresh scrutiny to '
+                          'the possibility that imported Chinese technology '
+                          'could be … [+3449 chars]',
+               'description': 'Lawmakers are growing concerned about a flood '
+                              'of data-hungry cars from China taking over '
+                              'American streets.',
+               'publishedAt': '2022-11-21T20:51:57Z',
+               'source': {'id': 'wired', 'name': 'Wired'},
+               'title': 'Autonomous Vehicles Join the List of US National '
+                        'Security Threats',
+               'url': 'https://www.wired.com/story/autonomous-vehicles-china-us-national-security/',
+               'urlToImage': 'https://media.wired.com/photos/637be42e08d21cc2614f8ae1/191:100/w_1280,c_limit/AUTO_Biz_GettyImages-1240599777.jpg'},
+              {'author': None,
+               'content': 'NEW DELHI, Nov 18 (Reuters) - India began '
+                          'canvassing public opinion on a new comprehensive '
+                          'data privacy bill on Friday, three months after '
+                          'withdrawing a previous bill that had alarmed big '
+                          'technology … [+461 chars]',
+               'description': 'India began canvassing public opinion on a new '
+                              'comprehensive data privacy bill on Friday, '
+                              'three months after withdrawing a previous bill '
+                              'that had alarmed big technology companies.',
+               'publishedAt': '2022-11-18T07:35:47Z',
+               'source': {'id': 'reuters', 'name': 'Reuters'},
+               'title': 'India releases draft of new data protection bill - '
+                        'Reuters India',
+               'url': 'https://www.reuters.com/world/india/india-releases-draft-new-data-protection-bill-2022-11-18/',
+               'urlToImage': 'https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120'},
+              {'author': 'Steven Gonzalez Monserrate',
+               'content': 'Since the turn of the millennium, the tech industry '
+                          'has spent billions to conjure a seductive narrative '
+                          'that the clouda term most nontechnical people use '
+                          'to mean everything the internet touches is li… '
+                          '[+6623 chars]',
+               'description': "It's all too easy to believe in the illusion of "
+                              'neverending data storage and streaming. But '
+                              "it's destroying the natural world.",
+               'publishedAt': '2022-11-15T14:00:00Z',
+               'source': {'id': 'wired', 'name': 'Wired'},
+               'title': 'The Infinite Cloud Is a Fantasy',
+               'url': 'https://www.wired.com/story/cloud-data-storage-climate/',
+               'urlToImage': 'https://media.wired.com/photos/6372f5948cea9c334692604e/191:100/w_1280,c_limit/infinite-cloud-fantasy.jpg'},
+              {'author': 'Jake Peterson',
+               'content': 'Do you have a sneaking suspicion your partner is '
+                          'spying on your phone? Its a big accusation, and '
+                          'confronting them without evidence is walking a '
+                          'risky path. If you find yourself in a situation '
+                          'where y… [+2402 chars]',
+               'description': 'Do you have a sneaking suspicion your partner '
+                              'is spying on your phone? It’s a big accusation, '
+                              'and confronting them without evidence is '
+                              'walking a risky path. If you find yourself in a '
+                              'situation where you think your partner (or '
+                              'someone else in the house) is loo…',
+               'publishedAt': '2022-11-17T18:00:00Z',
+               'source': {'id': None, 'name': 'Lifehacker.com'},
+               'title': 'How to Spy on Your Own Phone (and Why You Might Want '
+                        'to)',
+               'url': 'https://lifehacker.com/how-to-spy-on-your-own-phone-and-why-you-might-want-to-1849795721',
+               'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a503c383b7f5e6c6279d59d9b262c8e7.jpg'},
+              {'author': 'nicholas.sutrich@futurenet.com (Nicholas Sutrich)',
+               'content': 'What you need to know\r\n'
+                          '<ul><li>Security researcher Paul Moore has '
+                          "discovered several security flaws in Eufy's "
+                          'cameras.</li><li>User images and facial recognition '
+                          'data are being sent to the cloud with… [+5334 '
+                          'chars]',
+               'description': 'Eufy Security prides itself on only storing '
+                              'data locally, but a security researcher says '
+                              "that's not the case.",
+               'publishedAt': '2022-11-29T16:10:27Z',
+               'source': {'id': None, 'name': 'Android Central'},
+               'title': 'Security researcher says Eufy has a big security '
+                        'problem',
+               'url': 'https://www.androidcentral.com/accessories/smart-home/security-researcher-says-eufy-has-a-big-security-problem',
+               'urlToImage': 'https://cdn.mos.cms.futurecdn.net/ipnvHq3EDWGLRDGVhWmEjC-1200-80.jpg'},
+              {'author': 'David Richards, WANdisco',
+               'content': 'Check out the on-demand sessions from the '
+                          'Low-Code/No-Code Summit to learn how to '
+                          'successfully innovate and achieve efficiency by '
+                          'upskilling and scaling citizen developers. Watch '
+                          'now.\r\n'
+                          'For years, ent… [+1381 chars]',
+               'description': 'Does the value of edge data stop at the edge? '
+                              "Here's how to think strategically about "
+                              'managing your edge data in a world of big data '
+                              'and IoT.',
+               'publishedAt': '2022-12-09T18:07:00Z',
+               'source': {'id': None, 'name': 'VentureBeat'},
+               'title': '3 questions you should ask to get the most out of '
+                        'edge data',
+               'url': 'https://venturebeat.com/data-infrastructure/3-questions-you-should-ask-to-get-the-most-out-of-edge-data/',
+               'urlToImage': 'https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1332612761.jpg?w=1200&strip=all'},
+              {'author': 'Alicia Wallace',
+               'content': 'MinneapolisCNN Business\r\n'
+                          ' \xa0—\xa0\r\n'
+                          'The economy was top of mind for voters in the '
+                          'midterm elections, exit polls showed, adding even '
+                          'more weight to a highly anticipated inflation '
+                          'report due out on Thursday… [+3685 chars]',
+               'description': 'The economy was top of mind for voters in the '
+                              'midterm elections, exit polls showed, adding '
+                              'even more weight to a highly anticipated '
+                              'inflation report due out on Thursday.',
+               'publishedAt': '2022-11-10T10:53:01Z',
+               'source': {'id': 'cnn', 'name': 'CNN'},
+               'title': "The economy was a big concern for voters. Today's "
+                        "inflation report likely won't help",
+               'url': 'https://www.cnn.com/2022/11/10/economy/cpi-inflation-report-october/index.html',
+               'urlToImage': 'https://media.cnn.com/api/v1/images/stellar/prod/221109160501-restricted-us-inflation-numbers.jpg?c=16x9&q=w_800,c_fill'},
+              {'author': None,
+               'content': 'MELBOURNE, Nov 23 (Reuters) - Oil prices rose in '
+                          'early trade on Wednesday after industry data showed '
+                          'U.S. crude stockpiles fell more sharply than '
+                          'expected last week, highlighting supply tightness '
+                          'ahe… [+1813 chars]',
+               'description': 'Oil prices rose in early trade on Wednesday '
+                              'after industry data showed U.S. crude '
+                              'stockpiles fell more sharply than expected last '
+                              'week, highlighting supply tightness ahead of a '
+                              'looming European Union ban and G7 price cap on '
+                              'Russian oil.',
+               'publishedAt': '2022-11-23T01:23:00Z',
+               'source': {'id': 'reuters', 'name': 'Reuters'},
+               'title': 'Oil prices climb on big drop in U.S. crude stocks, '
+                        'Russia supply uncertainty - Reuters',
+               'url': 'https://www.reuters.com/business/energy/oil-prices-climb-big-drop-us-crude-stocks-russia-supply-uncertainty-2022-11-23/',
+               'urlToImage': 'https://www.reuters.com/resizer/2J_VHOCyXbmW-54CbBreqHlcNcc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TUK6CK5VQJOQFHOBP5WX7P3IRA.jpg'},
+              {'author': 'jma@insider.com (Jason Ma)',
+               'content': 'US stocks fell Friday after wholesale inflation '
+                          'rose more than expected last month, raising '
+                          'concerns that the Federal Reserve will keep rates '
+                          'higher for longer.\r\n'
+                          'The producer price index rose 0.3% in… [+702 chars]',
+               'description': 'Investors are looking ahead to a big week, with '
+                              'consumer inflation data coming out on Tuesday '
+                              "and the Fed's policy decision due on Wednesday.",
+               'publishedAt': '2022-12-09T21:03:47Z',
+               'source': {'id': 'business-insider', 'name': 'Business Insider'},
+               'title': 'US stocks fall on wholesale inflation data while '
+                        'investors look ahead to big week for markets',
+               'url': 'https://markets.businessinsider.com/news/stocks/stock-market-news-today-ppi-inflation-dow-sp500-losing-week-2022-12',
+               'urlToImage': 'https://i.insider.com/62f2b4a6cc15bf00182fa3a2?width=1200&format=jpeg'},
+              {'author': None,
+               'content': 'SYDNEY, Dec 2 (Reuters) - Asian shares were flat '
+                          'and Treasuries held onto gains on Friday ahead of '
+                          'the U.S. non-farm payrolls data, the next big test '
+                          'for investors looking for more signs of a shift f… '
+                          '[+3638 chars]',
+               'description': 'Asian shares were flat and Treasuries held onto '
+                              'gains on Friday ahead of the U.S. non-farm '
+                              'payrolls data, the next big test for investors '
+                              'looking for more signs of a shift from the '
+                              'Federal Reserve, while the dollar nursed heavy '
+                              'losses.',
+               'publishedAt': '2022-12-02T01:48:00Z',
+               'source': {'id': 'reuters', 'name': 'Reuters'},
+               'title': 'Asian shares tentative ahead of U.S. payrolls data, '
+                        'dollar nurses losses - Reuters',
+               'url': 'https://www.reuters.com/markets/global-markets-wrapup-1-pix-2022-12-02/',
+               'urlToImage': 'https://www.reuters.com/resizer/Iy6LMs3cvUEa-sSvHnVpJdfA8I0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/54HK76MF5FNDLMKNR5JPG3FYS4.jpg'},
+              {'author': 'MotherDuck',
+               'content': 'Its been a few productive months for the team here '
+                          'at MotherDuck. While our engineers have been heads '
+                          'down building, weve raised $47.5 million from '
+                          'Andreessen Horowitz, Redpoint, Madrona, Amplify '
+                          'and… [+4067 chars]',
+               'description': 'We are eleven database geeks building something '
+                              'special. Sign up to hear about it first.',
+               'publishedAt': '2022-11-16T22:12:00Z',
+               'source': {'id': None, 'name': 'Motherduck.com'},
+               'title': 'Big Data Is Dead',
+               'url': 'https://motherduck.com/blog/announcing-series-seed-and-a/',
+               'urlToImage': 'https://motherduck.com/images/mother-duck-large-logo.jpg'},
+              {'author': 'Darisse Smith',
+               'content': 'Around 2.8 million Americans suffer from '
+                          'treatment-resistant depression, and though research '
+                          'has shown that IV ketamine can significantly '
+                          'improve their quality of life, these ketamine '
+                          'treatments are … [+9819 chars]',
+               'description': 'Around 2.8 million Americans suffer from '
+                              'treatment-resistant depression, and though '
+                              'research has shown that IV ketamine can '
+                              'significantly improve their quality of life, '
+                              'these ketamine treatments are expensive, and '
+                              'access to them is limited. Early in the covid…',
+               'publishedAt': '2022-11-25T14:00:00Z',
+               'source': {'id': None, 'name': 'Gizmodo.com'},
+               'title': 'At-Home Ketamine Treatments Could Be a '
+                        'Game-Changer—or a Big Problem',
+               'url': 'https://gizmodo.com/at-home-ketamine-treatment-depression-1849816251',
+               'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f1f6e2bb16be4626197da572fecd9fe0.jpg'},
+              {'author': None,
+               'content': "SYDNEY, Dec 7 (Reuters) - Holdings of Australia's "
+                          'big banks by domestic fund managers are hovering '
+                          'near record lows on expectations that a combination '
+                          'of high consumer spending and low arrears will g… '
+                          '[+2268 chars]',
+               'description': "Holdings of Australia's big banks by domestic "
+                              'fund managers are hovering near record lows on '
+                              'expectations that a combination of high '
+                              'consumer spending and low arrears will give way '
+                              'to bad debts.',
+               'publishedAt': '2022-12-07T04:05:48Z',
+               'source': {'id': 'reuters', 'name': 'Reuters'},
+               'title': "Australian fund managers keep big banks at arm's "
+                        'length - Reuters.com',
+               'url': 'https://www.reuters.com/business/finance/australian-fund-managers-keep-big-banks-arms-length-2022-12-07/',
+               'urlToImage': 'https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=123'},
+              {'author': 'Dhruv Mehrotra',
+               'content': 'It was another busy week in security that saw big '
+                          'news about protests, surveillance, spyware, data '
+                          'breaches, and more. In the US,\xa0recent court '
+                          'filings detail how the FBIs use of a controversial '
+                          'warra… [+5637 chars]',
+               'description': 'Plus: ICE accidentally doxes asylum seekers, '
+                              'Google fails to uphold a post-Roe promise, and '
+                              'LastPass suffers the second breach this year.',
+               'publishedAt': '2022-12-03T14:00:00Z',
+               'source': {'id': 'wired', 'name': 'Wired'},
+               'title': 'China’s Police State Targets Zero-Covid Protesters',
+               'url': 'https://www.wired.com/story/china-zero-covid-protest-crackdown/',
+               'urlToImage': 'https://media.wired.com/photos/638a4d2bb41d17c413fb2753/191:100/w_1280,c_limit/Security-China-Protests-1245143563.jpg'},
+              {'author': 'Thomas Germain',
+               'content': 'Internet service providers will soon have to '
+                          'publish nutrition labels that prominently display '
+                          'the actual costs of their services, breaking down '
+                          'hidden fees, data caps, speed promises, and '
+                          'informatio… [+3116 chars]',
+               'description': 'Internet service providers will soon have to '
+                              'publish “nutrition labels” that prominently '
+                              'display the actual costs of their services, '
+                              'breaking down hidden fees, data caps, speed '
+                              'promises, and information about when discounts '
+                              'expire, the Federal Communications …',
+               'publishedAt': '2022-11-18T16:17:00Z',
+               'source': {'id': None, 'name': 'Gizmodo.com'},
+               'title': 'The FCC Is Forcing Internet Providers to Publish '
+                        "'Nutrition Labels' Breaking Down Prices",
+               'url': 'https://gizmodo.com/internet-bill-nutrition-labels-fcc-isp-comcast-at-t-cox-1849800920',
+               'urlToImage': 'https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cd4a42b5ff6fba95561044b42e89944e.png'},
+              {'author': None,
+               'content': 'NEW DELHI, Dec 7 (Reuters) - India saw a big jump '
+                          'in extreme weather events such as heatwaves and '
+                          'lightning strikes this year and related deaths rose '
+                          'to their highest in three years, government data … '
+                          '[+1530 chars]',
+               'description': 'India saw a big jump in extreme weather events '
+                              'such as heatwaves and lightning strikes this '
+                              'year and related deaths rose to their highest '
+                              'in three years, government data showed on '
+                              'Wednesday, with scientists blaming climate '
+                              'change for the heavy toll.',
+               'publishedAt': '2022-12-07T11:34:00Z',
+               'source': {'id': 'reuters', 'name': 'Reuters'},
+               'title': 'Lightning kills 907 in India as extreme weather '
+                        'surges in 2022 - Reuters India',
+               'url': 'https://www.reuters.com/world/india/lightning-kills-907-india-extreme-weather-surges-2022-2022-12-07/',
+               'urlToImage': 'https://www.reuters.com/resizer/_HtMLDQIaHZ8iXiZeyO6pMxaDr4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MZVWQU2XBVL7BGJE35OPR7ZH3Y.jpg'},
+              {'author': 'Mitchell Clark',
+               'content': 'You say you have my money? Prove it. | Illustration '
+                          'by Alex Castro / The Verge\r\n'
+                          '\n'
+                          ' \n'
+                          '\n'
+                          ' As FTX, formerly the world’s third-largest '
+                          'cryptocurrency exchange by volume, files for '
+                          'bankruptcy and halts withd… [+5867 chars]',
+               'description': 'Crypto.com, Binance, and Coinbase are among the '
+                              'cryptocurrency exchanges trying to prove to '
+                              'customers that their funds are safe following '
+                              'the collapse of FTX.',
+               'publishedAt': '2022-11-11T21:31:19Z',
+               'source': {'id': 'the-verge', 'name': 'The Verge'},
+               'title': 'As FTX sinks, other crypto exchanges are showing '
+                        'their coins',
+               'url': 'https://www.theverge.com/2022/11/11/23453560/ftx-bankruptcy-coinbase-binance-crypto-proof-of-reserves',
+               'urlToImage': 'https://cdn.vox-cdn.com/thumbor/wPO2usOSxctI84haZv11M8ErP_0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23587767/acastro_220524_STK428_0003.jpg'},
+              {'author': 'Sonu Yadav',
+               'content': "Let's say that your technology stack consists of "
+                          'SalesForce to store customer data, Marketo to '
+                          'nurture leads, Hootsuite to manage your social '
+                          'media marketing and Google Analytics to track '
+                          'website vis… [+6865 chars]',
+               'description': 'Siloed data can ruin marketing strategies, '
+                              "campaigns and businesses. It's time to break "
+                              'down the barriers and unify your data.',
+               'publishedAt': '2022-11-29T18:30:00Z',
+               'source': {'id': None, 'name': 'Entrepreneur'},
+               'title': 'How Siloed Data May Limit Your Business Growth (and '
+                        'How to Prevent It)',
+               'url': 'https://www.entrepreneur.com/growing-a-business/how-siloed-data-may-limit-your-business-growth-and-how-to/436788',
+               'urlToImage': 'https://assets.entrepreneur.com/content/3x2/2000/1669231873-shutterstock-1081970570.jpg'}],
+ 'status': 'ok',
+ 'totalResults': 23169}
+The Big Problem With Spotify Wrapped
+Apple Tracks You More Than You Think
+Autonomous Vehicles Join the List of US National Security Threats
+India releases draft of new data protection bill - Reuters India
+The Infinite Cloud Is a Fantasy
+How to Spy on Your Own Phone (and Why You Might Want to)
+Security researcher says Eufy has a big security problem
+3 questions you should ask to get the most out of edge data
+The economy was a big concern for voters. Today's inflation report likely won't help
+Oil prices climb on big drop in U.S. crude stocks, Russia supply uncertainty - Reuters
+US stocks fall on wholesale inflation data while investors look ahead to big week for markets
+Asian shares tentative ahead of U.S. payrolls data, dollar nurses losses - Reuters
+Big Data Is Dead
+At-Home Ketamine Treatments Could Be a Game-Changer—or a Big Problem
+Australian fund managers keep big banks at arm's length - Reuters.com
+China’s Police State Targets Zero-Covid Protesters
+The FCC Is Forcing Internet Providers to Publish 'Nutrition Labels' Breaking Down Prices
+Lightning kills 907 in India as extreme weather surges in 2022 - Reuters India
+As FTX sinks, other crypto exchanges are showing their coins
+How Siloed Data May Limit Your Business Growth (and How to Prevent It)
+The Big Problem With Spotify Wrapped Apple Tracks You More Than You Think Autonomous Vehicles Join the List of US National Security Threats India releases draft of new data protection bill - Reuters India The Infinite Cloud Is a Fantasy How to Spy on Your Own Phone (and Why You Might Want to) Secu
